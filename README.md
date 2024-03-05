@@ -1,6 +1,6 @@
 # Cameramotor.cs
-/This code was thanks to Epitome's tutorial 
-https://www.youtube.com/watch?v=b8YUfee_pzc&t=23003s
+/This code is using assets of Epitome's code
+
 
 using System.Collections;
 using System.Collections.Generic;
